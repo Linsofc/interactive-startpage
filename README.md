@@ -125,4 +125,16 @@ Jika Anda ingin tampilan ini muncul setiap kali Anda membuka **Tab Baru (+)**, g
 <a href="https://www.youtube.com/@LinsOfficiall"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="7px"></a>
 
 </div>
-#interactive-startpage #Linsofc
+
+## Sosial Media
+<p>
+  <a href="https://instagram.com/rijalsavior">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/saiful-rijal-14817a32b">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://youtube.com/@LinsOfficiall">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" />
+  </a>
+</p>
