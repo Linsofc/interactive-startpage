@@ -5,11 +5,14 @@
 **Linsofc Start Page** adalah dashboard pribadi (Start Page) yang modern, estetik, dan sangat kustomisasi untuk browser Anda.
 Dibangun dengan HTML, CSS, dan Vanilla JavaScript.
 
-<img src="public/image.png" alt="Linsofc Start Page Preview" width="100%">
+![Linsofc Start Page Preview](public/preview.png)
 
-<br><br>
+<br>
 
-<video src="public/1117.mp4" controls width="100%"></video>
+<h3>🎥 Demo Video</h3>
+<a href="public/1117.mp4" target="_blank">
+  <b>▶️ Klik di sini untuk memutar Video Demo</b>
+</a>
 
 </div>
 
