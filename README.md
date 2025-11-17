@@ -1,3 +1,6 @@
+# Interactive Startpage
+Startpage interaktif menggunakan HTML, CSS, dan JavaScript  cocok untuk homepage browser, dashboard pribadi, dan tampilan minimalis.
+
 <div align="center">
 
 <img src="public/preview.png" alt="Linsofc Start Page Banner" width="100%">
@@ -122,3 +125,4 @@ Jika Anda ingin tampilan ini muncul setiap kali Anda membuka **Tab Baru (+)**, g
 <a href="https://www.youtube.com/@LinsOfficiall"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="7px"></a>
 
 </div>
+#interactive-startpage #Linsofc
